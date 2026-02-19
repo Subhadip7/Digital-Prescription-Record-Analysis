@@ -1,0 +1,1001 @@
+doctor_id,doctor_name,specialization,hospital_name
+D0001,Doctor_1,Cardiology,Fortis
+D0002,Doctor_2,Pediatrics,Apollo
+D0003,Doctor_3,Pediatrics,Max
+D0004,Doctor_4,Cardiology,Fortis
+D0005,Doctor_5,Pediatrics,Max
+D0006,Doctor_6,Cardiology,Max
+D0007,Doctor_7,Cardiology,Max
+D0008,Doctor_8,Neurology,Apollo
+D0009,Doctor_9,Orthopedics,Max
+D0010,Doctor_10,Orthopedics,Max
+D0011,Doctor_11,Pediatrics,Max
+D0012,Doctor_12,Pediatrics,AIIMS
+D0013,Doctor_13,General Medicine,Apollo
+D0014,Doctor_14,General Medicine,AIIMS
+D0015,Doctor_15,Pediatrics,AIIMS
+D0016,Doctor_16,Orthopedics,Fortis
+D0017,Doctor_17,Neurology,Max
+D0018,Doctor_18,Cardiology,Manipal
+D0019,Doctor_19,Neurology,Max
+D0020,Doctor_20,Cardiology,Fortis
+D0021,Doctor_21,General Medicine,Manipal
+D0022,Doctor_22,Neurology,Manipal
+D0023,Doctor_23,Cardiology,Max
+D0024,Doctor_24,Pediatrics,Apollo
+D0025,Doctor_25,General Medicine,Manipal
+D0026,Doctor_26,General Medicine,Apollo
+D0027,Doctor_27,Cardiology,Max
+D0028,Doctor_28,Cardiology,Max
+D0029,Doctor_29,Orthopedics,Max
+D0030,Doctor_30,Neurology,Fortis
+D0031,Doctor_31,Neurology,Fortis
+D0032,Doctor_32,Orthopedics,Manipal
+D0033,Doctor_33,Neurology,Apollo
+D0034,Doctor_34,Pediatrics,Max
+D0035,Doctor_35,Neurology,Max
+D0036,Doctor_36,Neurology,Manipal
+D0037,Doctor_37,Neurology,Fortis
+D0038,Doctor_38,Neurology,Apollo
+D0039,Doctor_39,General Medicine,Fortis
+D0040,Doctor_40,Neurology,AIIMS
+D0041,Doctor_41,General Medicine,Manipal
+D0042,Doctor_42,Neurology,Fortis
+D0043,Doctor_43,Neurology,Max
+D0044,Doctor_44,Cardiology,Apollo
+D0045,Doctor_45,Cardiology,AIIMS
+D0046,Doctor_46,Cardiology,Max
+D0047,Doctor_47,Cardiology,Apollo
+D0048,Doctor_48,General Medicine,AIIMS
+D0049,Doctor_49,Neurology,Manipal
+D0050,Doctor_50,Pediatrics,Manipal
+D0051,Doctor_51,Cardiology,Max
+D0052,Doctor_52,General Medicine,Max
+D0053,Doctor_53,Orthopedics,AIIMS
+D0054,Doctor_54,Pediatrics,Apollo
+D0055,Doctor_55,Neurology,AIIMS
+D0056,Doctor_56,General Medicine,AIIMS
+D0057,Doctor_57,Cardiology,Fortis
+D0058,Doctor_58,General Medicine,Apollo
+D0059,Doctor_59,Orthopedics,AIIMS
+D0060,Doctor_60,Orthopedics,Manipal
+D0061,Doctor_61,General Medicine,Manipal
+D0062,Doctor_62,General Medicine,Max
+D0063,Doctor_63,Neurology,AIIMS
+D0064,Doctor_64,Orthopedics,Manipal
+D0065,Doctor_65,Neurology,Apollo
+D0066,Doctor_66,Neurology,Max
+D0067,Doctor_67,Orthopedics,AIIMS
+D0068,Doctor_68,Neurology,Max
+D0069,Doctor_69,Neurology,AIIMS
+D0070,Doctor_70,Pediatrics,Manipal
+D0071,Doctor_71,Orthopedics,Apollo
+D0072,Doctor_72,Orthopedics,Max
+D0073,Doctor_73,Pediatrics,Max
+D0074,Doctor_74,Neurology,AIIMS
+D0075,Doctor_75,Cardiology,AIIMS
+D0076,Doctor_76,Neurology,Max
+D0077,Doctor_77,Orthopedics,Fortis
+D0078,Doctor_78,Neurology,Apollo
+D0079,Doctor_79,Cardiology,Fortis
+D0080,Doctor_80,Orthopedics,Manipal
+D0081,Doctor_81,General Medicine,Fortis
+D0082,Doctor_82,General Medicine,Fortis
+D0083,Doctor_83,Cardiology,Apollo
+D0084,Doctor_84,Pediatrics,Apollo
+D0085,Doctor_85,Neurology,Fortis
+D0086,Doctor_86,General Medicine,Fortis
+D0087,Doctor_87,Cardiology,Manipal
+D0088,Doctor_88,Orthopedics,AIIMS
+D0089,Doctor_89,Pediatrics,Max
+D0090,Doctor_90,General Medicine,Max
+D0091,Doctor_91,Neurology,AIIMS
+D0092,Doctor_92,Orthopedics,Max
+D0093,Doctor_93,Cardiology,Max
+D0094,Doctor_94,Orthopedics,Apollo
+D0095,Doctor_95,Orthopedics,Apollo
+D0096,Doctor_96,Pediatrics,Max
+D0097,Doctor_97,Pediatrics,Manipal
+D0098,Doctor_98,General Medicine,Fortis
+D0099,Doctor_99,Orthopedics,AIIMS
+D0100,Doctor_100,Cardiology,Apollo
+D0101,Doctor_101,Neurology,Manipal
+D0102,Doctor_102,Cardiology,Max
+D0103,Doctor_103,General Medicine,Manipal
+D0104,Doctor_104,General Medicine,Apollo
+D0105,Doctor_105,Cardiology,Max
+D0106,Doctor_106,Cardiology,Fortis
+D0107,Doctor_107,Pediatrics,Max
+D0108,Doctor_108,Cardiology,Fortis
+D0109,Doctor_109,Orthopedics,Fortis
+D0110,Doctor_110,General Medicine,Fortis
+D0111,Doctor_111,Cardiology,Fortis
+D0112,Doctor_112,Cardiology,AIIMS
+D0113,Doctor_113,Neurology,AIIMS
+D0114,Doctor_114,General Medicine,Max
+D0115,Doctor_115,Neurology,Max
+D0116,Doctor_116,Neurology,Fortis
+D0117,Doctor_117,Cardiology,Manipal
+D0118,Doctor_118,Cardiology,Fortis
+D0119,Doctor_119,General Medicine,Apollo
+D0120,Doctor_120,Orthopedics,Fortis
+D0121,Doctor_121,General Medicine,Fortis
+D0122,Doctor_122,Pediatrics,AIIMS
+D0123,Doctor_123,Pediatrics,Manipal
+D0124,Doctor_124,Orthopedics,AIIMS
+D0125,Doctor_125,Pediatrics,Apollo
+D0126,Doctor_126,General Medicine,Manipal
+D0127,Doctor_127,General Medicine,Manipal
+D0128,Doctor_128,General Medicine,Manipal
+D0129,Doctor_129,Neurology,Manipal
+D0130,Doctor_130,Orthopedics,Max
+D0131,Doctor_131,Orthopedics,AIIMS
+D0132,Doctor_132,Pediatrics,AIIMS
+D0133,Doctor_133,Orthopedics,AIIMS
+D0134,Doctor_134,Cardiology,Fortis
+D0135,Doctor_135,General Medicine,Apollo
+D0136,Doctor_136,Neurology,Manipal
+D0137,Doctor_137,Cardiology,Max
+D0138,Doctor_138,Orthopedics,Apollo
+D0139,Doctor_139,Neurology,Max
+D0140,Doctor_140,Neurology,AIIMS
+D0141,Doctor_141,General Medicine,Fortis
+D0142,Doctor_142,Pediatrics,Manipal
+D0143,Doctor_143,General Medicine,Max
+D0144,Doctor_144,Neurology,Apollo
+D0145,Doctor_145,General Medicine,AIIMS
+D0146,Doctor_146,Cardiology,Manipal
+D0147,Doctor_147,Neurology,Manipal
+D0148,Doctor_148,Pediatrics,Max
+D0149,Doctor_149,Orthopedics,AIIMS
+D0150,Doctor_150,Neurology,Fortis
+D0151,Doctor_151,Cardiology,Fortis
+D0152,Doctor_152,Pediatrics,Manipal
+D0153,Doctor_153,Neurology,AIIMS
+D0154,Doctor_154,General Medicine,Manipal
+D0155,Doctor_155,Pediatrics,Max
+D0156,Doctor_156,General Medicine,Fortis
+D0157,Doctor_157,General Medicine,Apollo
+D0158,Doctor_158,Cardiology,AIIMS
+D0159,Doctor_159,Neurology,Manipal
+D0160,Doctor_160,Pediatrics,Apollo
+D0161,Doctor_161,Cardiology,Fortis
+D0162,Doctor_162,General Medicine,Fortis
+D0163,Doctor_163,Orthopedics,Max
+D0164,Doctor_164,Orthopedics,Max
+D0165,Doctor_165,Pediatrics,Manipal
+D0166,Doctor_166,Neurology,Apollo
+D0167,Doctor_167,Pediatrics,Fortis
+D0168,Doctor_168,General Medicine,Apollo
+D0169,Doctor_169,Neurology,Fortis
+D0170,Doctor_170,Pediatrics,Max
+D0171,Doctor_171,General Medicine,Manipal
+D0172,Doctor_172,Orthopedics,Apollo
+D0173,Doctor_173,Orthopedics,AIIMS
+D0174,Doctor_174,Cardiology,Apollo
+D0175,Doctor_175,Orthopedics,Apollo
+D0176,Doctor_176,Cardiology,Max
+D0177,Doctor_177,Orthopedics,Max
+D0178,Doctor_178,Pediatrics,Max
+D0179,Doctor_179,General Medicine,Manipal
+D0180,Doctor_180,Cardiology,Fortis
+D0181,Doctor_181,Pediatrics,Apollo
+D0182,Doctor_182,Neurology,Fortis
+D0183,Doctor_183,Orthopedics,Max
+D0184,Doctor_184,Pediatrics,AIIMS
+D0185,Doctor_185,General Medicine,Apollo
+D0186,Doctor_186,Orthopedics,Manipal
+D0187,Doctor_187,Pediatrics,AIIMS
+D0188,Doctor_188,General Medicine,Fortis
+D0189,Doctor_189,Cardiology,Manipal
+D0190,Doctor_190,Pediatrics,Manipal
+D0191,Doctor_191,Orthopedics,Fortis
+D0192,Doctor_192,Neurology,Manipal
+D0193,Doctor_193,Pediatrics,Apollo
+D0194,Doctor_194,Neurology,Fortis
+D0195,Doctor_195,Pediatrics,Manipal
+D0196,Doctor_196,Neurology,Fortis
+D0197,Doctor_197,Pediatrics,Max
+D0198,Doctor_198,General Medicine,AIIMS
+D0199,Doctor_199,Cardiology,Manipal
+D0200,Doctor_200,Cardiology,Manipal
+D0201,Doctor_201,General Medicine,Max
+D0202,Doctor_202,Cardiology,Apollo
+D0203,Doctor_203,General Medicine,Manipal
+D0204,Doctor_204,General Medicine,Fortis
+D0205,Doctor_205,General Medicine,Apollo
+D0206,Doctor_206,Neurology,Fortis
+D0207,Doctor_207,Cardiology,Max
+D0208,Doctor_208,General Medicine,Max
+D0209,Doctor_209,Pediatrics,AIIMS
+D0210,Doctor_210,Neurology,Fortis
+D0211,Doctor_211,Cardiology,Manipal
+D0212,Doctor_212,General Medicine,Apollo
+D0213,Doctor_213,Pediatrics,Manipal
+D0214,Doctor_214,Cardiology,Fortis
+D0215,Doctor_215,Pediatrics,Manipal
+D0216,Doctor_216,Pediatrics,Fortis
+D0217,Doctor_217,Cardiology,Max
+D0218,Doctor_218,Pediatrics,Max
+D0219,Doctor_219,Cardiology,Max
+D0220,Doctor_220,Neurology,Max
+D0221,Doctor_221,Neurology,Apollo
+D0222,Doctor_222,Cardiology,Fortis
+D0223,Doctor_223,Orthopedics,Apollo
+D0224,Doctor_224,Orthopedics,Fortis
+D0225,Doctor_225,Pediatrics,AIIMS
+D0226,Doctor_226,Pediatrics,Fortis
+D0227,Doctor_227,General Medicine,Manipal
+D0228,Doctor_228,Orthopedics,Fortis
+D0229,Doctor_229,Orthopedics,Fortis
+D0230,Doctor_230,Neurology,AIIMS
+D0231,Doctor_231,Pediatrics,Manipal
+D0232,Doctor_232,Cardiology,Manipal
+D0233,Doctor_233,Pediatrics,AIIMS
+D0234,Doctor_234,Cardiology,Max
+D0235,Doctor_235,Pediatrics,Max
+D0236,Doctor_236,Cardiology,Max
+D0237,Doctor_237,General Medicine,Manipal
+D0238,Doctor_238,Pediatrics,Max
+D0239,Doctor_239,Pediatrics,AIIMS
+D0240,Doctor_240,Neurology,Manipal
+D0241,Doctor_241,Neurology,Max
+D0242,Doctor_242,Cardiology,Max
+D0243,Doctor_243,Pediatrics,Fortis
+D0244,Doctor_244,Pediatrics,Fortis
+D0245,Doctor_245,Cardiology,Max
+D0246,Doctor_246,Pediatrics,Fortis
+D0247,Doctor_247,Neurology,Manipal
+D0248,Doctor_248,Orthopedics,Max
+D0249,Doctor_249,General Medicine,Manipal
+D0250,Doctor_250,Orthopedics,Manipal
+D0251,Doctor_251,Cardiology,Fortis
+D0252,Doctor_252,Pediatrics,Fortis
+D0253,Doctor_253,Orthopedics,Apollo
+D0254,Doctor_254,Pediatrics,AIIMS
+D0255,Doctor_255,Cardiology,Apollo
+D0256,Doctor_256,Neurology,Fortis
+D0257,Doctor_257,Cardiology,Fortis
+D0258,Doctor_258,Pediatrics,Apollo
+D0259,Doctor_259,Cardiology,Manipal
+D0260,Doctor_260,Orthopedics,Apollo
+D0261,Doctor_261,Neurology,AIIMS
+D0262,Doctor_262,Cardiology,AIIMS
+D0263,Doctor_263,Orthopedics,Max
+D0264,Doctor_264,General Medicine,Manipal
+D0265,Doctor_265,General Medicine,Manipal
+D0266,Doctor_266,Orthopedics,AIIMS
+D0267,Doctor_267,General Medicine,Max
+D0268,Doctor_268,Orthopedics,AIIMS
+D0269,Doctor_269,General Medicine,Max
+D0270,Doctor_270,Pediatrics,AIIMS
+D0271,Doctor_271,Cardiology,AIIMS
+D0272,Doctor_272,Orthopedics,Max
+D0273,Doctor_273,Cardiology,Apollo
+D0274,Doctor_274,General Medicine,AIIMS
+D0275,Doctor_275,Cardiology,Max
+D0276,Doctor_276,Neurology,AIIMS
+D0277,Doctor_277,Pediatrics,AIIMS
+D0278,Doctor_278,Pediatrics,Manipal
+D0279,Doctor_279,General Medicine,Max
+D0280,Doctor_280,Pediatrics,Fortis
+D0281,Doctor_281,Neurology,Max
+D0282,Doctor_282,Pediatrics,Max
+D0283,Doctor_283,Cardiology,Apollo
+D0284,Doctor_284,Cardiology,Max
+D0285,Doctor_285,Cardiology,AIIMS
+D0286,Doctor_286,Cardiology,Manipal
+D0287,Doctor_287,Neurology,AIIMS
+D0288,Doctor_288,Neurology,AIIMS
+D0289,Doctor_289,General Medicine,Fortis
+D0290,Doctor_290,Orthopedics,Max
+D0291,Doctor_291,Orthopedics,Manipal
+D0292,Doctor_292,General Medicine,Manipal
+D0293,Doctor_293,Orthopedics,Fortis
+D0294,Doctor_294,Cardiology,Fortis
+D0295,Doctor_295,Orthopedics,Max
+D0296,Doctor_296,Pediatrics,AIIMS
+D0297,Doctor_297,Cardiology,Manipal
+D0298,Doctor_298,Pediatrics,Manipal
+D0299,Doctor_299,General Medicine,Fortis
+D0300,Doctor_300,Cardiology,Max
+D0301,Doctor_301,Pediatrics,AIIMS
+D0302,Doctor_302,Neurology,Max
+D0303,Doctor_303,Orthopedics,Max
+D0304,Doctor_304,Orthopedics,Manipal
+D0305,Doctor_305,Orthopedics,Fortis
+D0306,Doctor_306,Cardiology,Fortis
+D0307,Doctor_307,General Medicine,Max
+D0308,Doctor_308,Neurology,Fortis
+D0309,Doctor_309,Orthopedics,Fortis
+D0310,Doctor_310,Cardiology,AIIMS
+D0311,Doctor_311,General Medicine,Manipal
+D0312,Doctor_312,Cardiology,Apollo
+D0313,Doctor_313,Cardiology,Max
+D0314,Doctor_314,Neurology,AIIMS
+D0315,Doctor_315,Neurology,AIIMS
+D0316,Doctor_316,Pediatrics,Manipal
+D0317,Doctor_317,Orthopedics,Max
+D0318,Doctor_318,Orthopedics,Max
+D0319,Doctor_319,General Medicine,Manipal
+D0320,Doctor_320,General Medicine,Apollo
+D0321,Doctor_321,Neurology,Max
+D0322,Doctor_322,Orthopedics,Manipal
+D0323,Doctor_323,General Medicine,Max
+D0324,Doctor_324,Cardiology,Fortis
+D0325,Doctor_325,Pediatrics,AIIMS
+D0326,Doctor_326,General Medicine,Manipal
+D0327,Doctor_327,General Medicine,Manipal
+D0328,Doctor_328,Cardiology,Apollo
+D0329,Doctor_329,Neurology,Fortis
+D0330,Doctor_330,Orthopedics,Max
+D0331,Doctor_331,Pediatrics,Manipal
+D0332,Doctor_332,Orthopedics,Max
+D0333,Doctor_333,Cardiology,AIIMS
+D0334,Doctor_334,Neurology,Apollo
+D0335,Doctor_335,Orthopedics,Max
+D0336,Doctor_336,Pediatrics,Manipal
+D0337,Doctor_337,Orthopedics,AIIMS
+D0338,Doctor_338,Neurology,Manipal
+D0339,Doctor_339,Pediatrics,Manipal
+D0340,Doctor_340,Orthopedics,AIIMS
+D0341,Doctor_341,Orthopedics,Manipal
+D0342,Doctor_342,Pediatrics,AIIMS
+D0343,Doctor_343,Orthopedics,Manipal
+D0344,Doctor_344,Neurology,AIIMS
+D0345,Doctor_345,Orthopedics,AIIMS
+D0346,Doctor_346,General Medicine,Apollo
+D0347,Doctor_347,Pediatrics,AIIMS
+D0348,Doctor_348,Cardiology,Max
+D0349,Doctor_349,General Medicine,Max
+D0350,Doctor_350,General Medicine,Max
+D0351,Doctor_351,Cardiology,AIIMS
+D0352,Doctor_352,Cardiology,AIIMS
+D0353,Doctor_353,General Medicine,Fortis
+D0354,Doctor_354,General Medicine,Fortis
+D0355,Doctor_355,General Medicine,Apollo
+D0356,Doctor_356,Pediatrics,Apollo
+D0357,Doctor_357,Orthopedics,Apollo
+D0358,Doctor_358,Neurology,Apollo
+D0359,Doctor_359,General Medicine,AIIMS
+D0360,Doctor_360,Pediatrics,Manipal
+D0361,Doctor_361,Pediatrics,Fortis
+D0362,Doctor_362,Cardiology,Manipal
+D0363,Doctor_363,Neurology,Max
+D0364,Doctor_364,Orthopedics,Manipal
+D0365,Doctor_365,Neurology,Max
+D0366,Doctor_366,Cardiology,AIIMS
+D0367,Doctor_367,Cardiology,Max
+D0368,Doctor_368,Neurology,AIIMS
+D0369,Doctor_369,Pediatrics,Manipal
+D0370,Doctor_370,Pediatrics,AIIMS
+D0371,Doctor_371,Neurology,AIIMS
+D0372,Doctor_372,General Medicine,Fortis
+D0373,Doctor_373,Pediatrics,Fortis
+D0374,Doctor_374,Pediatrics,Fortis
+D0375,Doctor_375,Cardiology,Max
+D0376,Doctor_376,General Medicine,Manipal
+D0377,Doctor_377,General Medicine,Fortis
+D0378,Doctor_378,Neurology,AIIMS
+D0379,Doctor_379,Neurology,Apollo
+D0380,Doctor_380,General Medicine,Manipal
+D0381,Doctor_381,Orthopedics,AIIMS
+D0382,Doctor_382,Orthopedics,Apollo
+D0383,Doctor_383,Neurology,Max
+D0384,Doctor_384,General Medicine,Max
+D0385,Doctor_385,Cardiology,AIIMS
+D0386,Doctor_386,Orthopedics,AIIMS
+D0387,Doctor_387,Neurology,Max
+D0388,Doctor_388,Neurology,Max
+D0389,Doctor_389,Neurology,Max
+D0390,Doctor_390,Cardiology,Manipal
+D0391,Doctor_391,Neurology,Fortis
+D0392,Doctor_392,General Medicine,Manipal
+D0393,Doctor_393,General Medicine,Manipal
+D0394,Doctor_394,Cardiology,Max
+D0395,Doctor_395,General Medicine,AIIMS
+D0396,Doctor_396,Neurology,Manipal
+D0397,Doctor_397,Cardiology,Max
+D0398,Doctor_398,General Medicine,Manipal
+D0399,Doctor_399,Orthopedics,AIIMS
+D0400,Doctor_400,Pediatrics,AIIMS
+D0401,Doctor_401,Pediatrics,Apollo
+D0402,Doctor_402,Orthopedics,Apollo
+D0403,Doctor_403,Neurology,Manipal
+D0404,Doctor_404,Neurology,Fortis
+D0405,Doctor_405,General Medicine,Manipal
+D0406,Doctor_406,Neurology,Manipal
+D0407,Doctor_407,Orthopedics,Apollo
+D0408,Doctor_408,General Medicine,Manipal
+D0409,Doctor_409,Pediatrics,Fortis
+D0410,Doctor_410,Cardiology,AIIMS
+D0411,Doctor_411,Neurology,Fortis
+D0412,Doctor_412,Pediatrics,Fortis
+D0413,Doctor_413,Pediatrics,Apollo
+D0414,Doctor_414,Pediatrics,Apollo
+D0415,Doctor_415,Pediatrics,AIIMS
+D0416,Doctor_416,Pediatrics,Manipal
+D0417,Doctor_417,Neurology,Max
+D0418,Doctor_418,Orthopedics,Apollo
+D0419,Doctor_419,Neurology,Fortis
+D0420,Doctor_420,General Medicine,Fortis
+D0421,Doctor_421,Cardiology,Max
+D0422,Doctor_422,Pediatrics,Apollo
+D0423,Doctor_423,Pediatrics,Apollo
+D0424,Doctor_424,Orthopedics,Apollo
+D0425,Doctor_425,Neurology,Apollo
+D0426,Doctor_426,Pediatrics,AIIMS
+D0427,Doctor_427,Neurology,AIIMS
+D0428,Doctor_428,Neurology,Apollo
+D0429,Doctor_429,Neurology,Apollo
+D0430,Doctor_430,Orthopedics,AIIMS
+D0431,Doctor_431,Pediatrics,AIIMS
+D0432,Doctor_432,Neurology,Fortis
+D0433,Doctor_433,General Medicine,AIIMS
+D0434,Doctor_434,Pediatrics,Apollo
+D0435,Doctor_435,Neurology,Max
+D0436,Doctor_436,Pediatrics,Apollo
+D0437,Doctor_437,Orthopedics,Apollo
+D0438,Doctor_438,Orthopedics,Apollo
+D0439,Doctor_439,Orthopedics,Apollo
+D0440,Doctor_440,Cardiology,AIIMS
+D0441,Doctor_441,General Medicine,Manipal
+D0442,Doctor_442,Orthopedics,Max
+D0443,Doctor_443,Pediatrics,AIIMS
+D0444,Doctor_444,Orthopedics,Manipal
+D0445,Doctor_445,General Medicine,AIIMS
+D0446,Doctor_446,Neurology,Manipal
+D0447,Doctor_447,General Medicine,Manipal
+D0448,Doctor_448,General Medicine,AIIMS
+D0449,Doctor_449,Orthopedics,Fortis
+D0450,Doctor_450,Cardiology,Fortis
+D0451,Doctor_451,Pediatrics,AIIMS
+D0452,Doctor_452,Neurology,Apollo
+D0453,Doctor_453,Neurology,Apollo
+D0454,Doctor_454,Neurology,Fortis
+D0455,Doctor_455,Cardiology,Max
+D0456,Doctor_456,Orthopedics,Max
+D0457,Doctor_457,General Medicine,Max
+D0458,Doctor_458,Cardiology,Max
+D0459,Doctor_459,Neurology,AIIMS
+D0460,Doctor_460,Neurology,Fortis
+D0461,Doctor_461,General Medicine,Manipal
+D0462,Doctor_462,Neurology,Fortis
+D0463,Doctor_463,Pediatrics,Manipal
+D0464,Doctor_464,Orthopedics,Manipal
+D0465,Doctor_465,Neurology,Max
+D0466,Doctor_466,Orthopedics,Max
+D0467,Doctor_467,Orthopedics,Max
+D0468,Doctor_468,General Medicine,AIIMS
+D0469,Doctor_469,General Medicine,AIIMS
+D0470,Doctor_470,General Medicine,Apollo
+D0471,Doctor_471,Pediatrics,Max
+D0472,Doctor_472,General Medicine,AIIMS
+D0473,Doctor_473,Cardiology,AIIMS
+D0474,Doctor_474,Orthopedics,Max
+D0475,Doctor_475,Orthopedics,Fortis
+D0476,Doctor_476,Orthopedics,Fortis
+D0477,Doctor_477,Cardiology,Max
+D0478,Doctor_478,Pediatrics,Apollo
+D0479,Doctor_479,General Medicine,Max
+D0480,Doctor_480,Cardiology,Apollo
+D0481,Doctor_481,Orthopedics,Max
+D0482,Doctor_482,Neurology,AIIMS
+D0483,Doctor_483,Cardiology,Apollo
+D0484,Doctor_484,Orthopedics,Max
+D0485,Doctor_485,General Medicine,Manipal
+D0486,Doctor_486,Cardiology,AIIMS
+D0487,Doctor_487,Orthopedics,AIIMS
+D0488,Doctor_488,Pediatrics,Manipal
+D0489,Doctor_489,Neurology,AIIMS
+D0490,Doctor_490,Neurology,Fortis
+D0491,Doctor_491,Neurology,Manipal
+D0492,Doctor_492,General Medicine,Max
+D0493,Doctor_493,Neurology,Max
+D0494,Doctor_494,Neurology,Fortis
+D0495,Doctor_495,General Medicine,Max
+D0496,Doctor_496,Orthopedics,Apollo
+D0497,Doctor_497,Neurology,Manipal
+D0498,Doctor_498,General Medicine,AIIMS
+D0499,Doctor_499,Pediatrics,Fortis
+D0500,Doctor_500,General Medicine,AIIMS
+D0501,Doctor_501,Cardiology,Fortis
+D0502,Doctor_502,General Medicine,Max
+D0503,Doctor_503,Neurology,Fortis
+D0504,Doctor_504,Cardiology,Max
+D0505,Doctor_505,Cardiology,Fortis
+D0506,Doctor_506,General Medicine,Max
+D0507,Doctor_507,Cardiology,Apollo
+D0508,Doctor_508,General Medicine,Fortis
+D0509,Doctor_509,Pediatrics,Max
+D0510,Doctor_510,Cardiology,Max
+D0511,Doctor_511,Pediatrics,AIIMS
+D0512,Doctor_512,Cardiology,AIIMS
+D0513,Doctor_513,Cardiology,Max
+D0514,Doctor_514,Pediatrics,AIIMS
+D0515,Doctor_515,Neurology,Max
+D0516,Doctor_516,Neurology,Apollo
+D0517,Doctor_517,General Medicine,AIIMS
+D0518,Doctor_518,General Medicine,AIIMS
+D0519,Doctor_519,Cardiology,Manipal
+D0520,Doctor_520,General Medicine,AIIMS
+D0521,Doctor_521,Pediatrics,Apollo
+D0522,Doctor_522,Cardiology,AIIMS
+D0523,Doctor_523,Neurology,Fortis
+D0524,Doctor_524,General Medicine,Apollo
+D0525,Doctor_525,General Medicine,Manipal
+D0526,Doctor_526,Orthopedics,Apollo
+D0527,Doctor_527,Pediatrics,Apollo
+D0528,Doctor_528,Orthopedics,Fortis
+D0529,Doctor_529,General Medicine,Apollo
+D0530,Doctor_530,General Medicine,Max
+D0531,Doctor_531,Orthopedics,Max
+D0532,Doctor_532,Pediatrics,Max
+D0533,Doctor_533,General Medicine,Fortis
+D0534,Doctor_534,Pediatrics,Max
+D0535,Doctor_535,Orthopedics,Max
+D0536,Doctor_536,Cardiology,AIIMS
+D0537,Doctor_537,Cardiology,AIIMS
+D0538,Doctor_538,General Medicine,Apollo
+D0539,Doctor_539,Neurology,AIIMS
+D0540,Doctor_540,Cardiology,AIIMS
+D0541,Doctor_541,Pediatrics,AIIMS
+D0542,Doctor_542,Pediatrics,Fortis
+D0543,Doctor_543,Neurology,AIIMS
+D0544,Doctor_544,General Medicine,Manipal
+D0545,Doctor_545,Pediatrics,Fortis
+D0546,Doctor_546,Orthopedics,Manipal
+D0547,Doctor_547,Pediatrics,Manipal
+D0548,Doctor_548,Orthopedics,AIIMS
+D0549,Doctor_549,Pediatrics,Fortis
+D0550,Doctor_550,Neurology,AIIMS
+D0551,Doctor_551,Cardiology,Manipal
+D0552,Doctor_552,Orthopedics,Apollo
+D0553,Doctor_553,Orthopedics,Fortis
+D0554,Doctor_554,Pediatrics,Fortis
+D0555,Doctor_555,General Medicine,Apollo
+D0556,Doctor_556,Cardiology,Max
+D0557,Doctor_557,Cardiology,Apollo
+D0558,Doctor_558,Pediatrics,Max
+D0559,Doctor_559,Cardiology,Max
+D0560,Doctor_560,Pediatrics,Fortis
+D0561,Doctor_561,Cardiology,Manipal
+D0562,Doctor_562,Orthopedics,Apollo
+D0563,Doctor_563,Cardiology,Fortis
+D0564,Doctor_564,Pediatrics,Manipal
+D0565,Doctor_565,Cardiology,Apollo
+D0566,Doctor_566,Orthopedics,Fortis
+D0567,Doctor_567,Pediatrics,Manipal
+D0568,Doctor_568,Neurology,AIIMS
+D0569,Doctor_569,Pediatrics,Max
+D0570,Doctor_570,Cardiology,AIIMS
+D0571,Doctor_571,Neurology,AIIMS
+D0572,Doctor_572,Cardiology,AIIMS
+D0573,Doctor_573,Orthopedics,Apollo
+D0574,Doctor_574,Cardiology,Max
+D0575,Doctor_575,Orthopedics,Max
+D0576,Doctor_576,Pediatrics,Manipal
+D0577,Doctor_577,Cardiology,Apollo
+D0578,Doctor_578,Pediatrics,Fortis
+D0579,Doctor_579,Orthopedics,Apollo
+D0580,Doctor_580,General Medicine,Max
+D0581,Doctor_581,Pediatrics,Manipal
+D0582,Doctor_582,Cardiology,Fortis
+D0583,Doctor_583,Neurology,AIIMS
+D0584,Doctor_584,General Medicine,Fortis
+D0585,Doctor_585,Pediatrics,Apollo
+D0586,Doctor_586,Pediatrics,Manipal
+D0587,Doctor_587,Neurology,Apollo
+D0588,Doctor_588,Orthopedics,AIIMS
+D0589,Doctor_589,Orthopedics,Fortis
+D0590,Doctor_590,Neurology,Max
+D0591,Doctor_591,General Medicine,Fortis
+D0592,Doctor_592,Pediatrics,Apollo
+D0593,Doctor_593,Cardiology,Apollo
+D0594,Doctor_594,Orthopedics,Fortis
+D0595,Doctor_595,Pediatrics,Fortis
+D0596,Doctor_596,Orthopedics,Fortis
+D0597,Doctor_597,Cardiology,Fortis
+D0598,Doctor_598,Pediatrics,AIIMS
+D0599,Doctor_599,General Medicine,Max
+D0600,Doctor_600,Pediatrics,AIIMS
+D0601,Doctor_601,General Medicine,Manipal
+D0602,Doctor_602,Neurology,Max
+D0603,Doctor_603,Pediatrics,Max
+D0604,Doctor_604,Pediatrics,Apollo
+D0605,Doctor_605,Neurology,Fortis
+D0606,Doctor_606,General Medicine,Fortis
+D0607,Doctor_607,Pediatrics,Fortis
+D0608,Doctor_608,Cardiology,Fortis
+D0609,Doctor_609,Pediatrics,AIIMS
+D0610,Doctor_610,Neurology,AIIMS
+D0611,Doctor_611,Cardiology,Fortis
+D0612,Doctor_612,Pediatrics,Fortis
+D0613,Doctor_613,Pediatrics,AIIMS
+D0614,Doctor_614,Cardiology,AIIMS
+D0615,Doctor_615,General Medicine,Fortis
+D0616,Doctor_616,Pediatrics,Manipal
+D0617,Doctor_617,Neurology,Max
+D0618,Doctor_618,General Medicine,Max
+D0619,Doctor_619,Orthopedics,Apollo
+D0620,Doctor_620,Pediatrics,Manipal
+D0621,Doctor_621,Pediatrics,Manipal
+D0622,Doctor_622,Neurology,Fortis
+D0623,Doctor_623,Orthopedics,Fortis
+D0624,Doctor_624,Pediatrics,Max
+D0625,Doctor_625,Orthopedics,Max
+D0626,Doctor_626,Orthopedics,Apollo
+D0627,Doctor_627,Pediatrics,Manipal
+D0628,Doctor_628,Cardiology,Apollo
+D0629,Doctor_629,Neurology,Fortis
+D0630,Doctor_630,Cardiology,AIIMS
+D0631,Doctor_631,Orthopedics,AIIMS
+D0632,Doctor_632,Orthopedics,Manipal
+D0633,Doctor_633,General Medicine,AIIMS
+D0634,Doctor_634,Cardiology,Manipal
+D0635,Doctor_635,Cardiology,AIIMS
+D0636,Doctor_636,Cardiology,Max
+D0637,Doctor_637,Orthopedics,Max
+D0638,Doctor_638,Orthopedics,Fortis
+D0639,Doctor_639,Orthopedics,Max
+D0640,Doctor_640,General Medicine,Apollo
+D0641,Doctor_641,Pediatrics,AIIMS
+D0642,Doctor_642,Cardiology,Max
+D0643,Doctor_643,Pediatrics,AIIMS
+D0644,Doctor_644,Orthopedics,Max
+D0645,Doctor_645,Pediatrics,Manipal
+D0646,Doctor_646,Neurology,Apollo
+D0647,Doctor_647,General Medicine,Fortis
+D0648,Doctor_648,General Medicine,Manipal
+D0649,Doctor_649,Pediatrics,Manipal
+D0650,Doctor_650,Pediatrics,AIIMS
+D0651,Doctor_651,Cardiology,AIIMS
+D0652,Doctor_652,Pediatrics,Fortis
+D0653,Doctor_653,Cardiology,Max
+D0654,Doctor_654,Cardiology,Max
+D0655,Doctor_655,Orthopedics,Fortis
+D0656,Doctor_656,General Medicine,Apollo
+D0657,Doctor_657,Neurology,Apollo
+D0658,Doctor_658,Cardiology,Apollo
+D0659,Doctor_659,General Medicine,Manipal
+D0660,Doctor_660,Neurology,Apollo
+D0661,Doctor_661,Pediatrics,AIIMS
+D0662,Doctor_662,Neurology,Manipal
+D0663,Doctor_663,Orthopedics,Max
+D0664,Doctor_664,Neurology,AIIMS
+D0665,Doctor_665,Neurology,Fortis
+D0666,Doctor_666,General Medicine,AIIMS
+D0667,Doctor_667,Neurology,AIIMS
+D0668,Doctor_668,Neurology,Apollo
+D0669,Doctor_669,Neurology,AIIMS
+D0670,Doctor_670,Pediatrics,AIIMS
+D0671,Doctor_671,Orthopedics,AIIMS
+D0672,Doctor_672,Pediatrics,Fortis
+D0673,Doctor_673,Neurology,Manipal
+D0674,Doctor_674,Neurology,Manipal
+D0675,Doctor_675,General Medicine,Manipal
+D0676,Doctor_676,Pediatrics,Apollo
+D0677,Doctor_677,Orthopedics,Max
+D0678,Doctor_678,Pediatrics,Fortis
+D0679,Doctor_679,Pediatrics,Apollo
+D0680,Doctor_680,Cardiology,Fortis
+D0681,Doctor_681,Cardiology,Max
+D0682,Doctor_682,Orthopedics,AIIMS
+D0683,Doctor_683,Neurology,Manipal
+D0684,Doctor_684,Neurology,AIIMS
+D0685,Doctor_685,Neurology,Apollo
+D0686,Doctor_686,Pediatrics,Apollo
+D0687,Doctor_687,Orthopedics,Manipal
+D0688,Doctor_688,Neurology,Manipal
+D0689,Doctor_689,Orthopedics,AIIMS
+D0690,Doctor_690,Pediatrics,Fortis
+D0691,Doctor_691,Orthopedics,AIIMS
+D0692,Doctor_692,Orthopedics,Manipal
+D0693,Doctor_693,Orthopedics,Manipal
+D0694,Doctor_694,Orthopedics,Manipal
+D0695,Doctor_695,Pediatrics,Max
+D0696,Doctor_696,Orthopedics,Apollo
+D0697,Doctor_697,Cardiology,Fortis
+D0698,Doctor_698,General Medicine,Fortis
+D0699,Doctor_699,Cardiology,Apollo
+D0700,Doctor_700,Orthopedics,AIIMS
+D0701,Doctor_701,Pediatrics,Max
+D0702,Doctor_702,Pediatrics,AIIMS
+D0703,Doctor_703,Neurology,Fortis
+D0704,Doctor_704,Orthopedics,AIIMS
+D0705,Doctor_705,General Medicine,AIIMS
+D0706,Doctor_706,Cardiology,AIIMS
+D0707,Doctor_707,General Medicine,Manipal
+D0708,Doctor_708,Pediatrics,Apollo
+D0709,Doctor_709,General Medicine,AIIMS
+D0710,Doctor_710,General Medicine,Max
+D0711,Doctor_711,Orthopedics,AIIMS
+D0712,Doctor_712,Pediatrics,Max
+D0713,Doctor_713,Pediatrics,Apollo
+D0714,Doctor_714,Cardiology,AIIMS
+D0715,Doctor_715,Neurology,Manipal
+D0716,Doctor_716,Cardiology,Apollo
+D0717,Doctor_717,Neurology,Apollo
+D0718,Doctor_718,Cardiology,AIIMS
+D0719,Doctor_719,Cardiology,Max
+D0720,Doctor_720,General Medicine,Max
+D0721,Doctor_721,General Medicine,Fortis
+D0722,Doctor_722,Cardiology,Manipal
+D0723,Doctor_723,General Medicine,AIIMS
+D0724,Doctor_724,General Medicine,Fortis
+D0725,Doctor_725,Orthopedics,Manipal
+D0726,Doctor_726,Orthopedics,AIIMS
+D0727,Doctor_727,Neurology,Fortis
+D0728,Doctor_728,Neurology,Manipal
+D0729,Doctor_729,Pediatrics,AIIMS
+D0730,Doctor_730,Pediatrics,Apollo
+D0731,Doctor_731,Neurology,Apollo
+D0732,Doctor_732,Cardiology,Max
+D0733,Doctor_733,Cardiology,Manipal
+D0734,Doctor_734,Cardiology,Apollo
+D0735,Doctor_735,Neurology,AIIMS
+D0736,Doctor_736,Neurology,Manipal
+D0737,Doctor_737,Pediatrics,AIIMS
+D0738,Doctor_738,Neurology,AIIMS
+D0739,Doctor_739,Orthopedics,Max
+D0740,Doctor_740,General Medicine,Manipal
+D0741,Doctor_741,Cardiology,Max
+D0742,Doctor_742,Cardiology,Fortis
+D0743,Doctor_743,General Medicine,Max
+D0744,Doctor_744,Neurology,Manipal
+D0745,Doctor_745,Neurology,Max
+D0746,Doctor_746,Orthopedics,Max
+D0747,Doctor_747,Cardiology,Max
+D0748,Doctor_748,General Medicine,AIIMS
+D0749,Doctor_749,Pediatrics,Apollo
+D0750,Doctor_750,Pediatrics,AIIMS
+D0751,Doctor_751,Neurology,Fortis
+D0752,Doctor_752,Neurology,Max
+D0753,Doctor_753,General Medicine,Fortis
+D0754,Doctor_754,Pediatrics,Apollo
+D0755,Doctor_755,Cardiology,AIIMS
+D0756,Doctor_756,Cardiology,Fortis
+D0757,Doctor_757,Cardiology,Manipal
+D0758,Doctor_758,Orthopedics,Max
+D0759,Doctor_759,Orthopedics,Max
+D0760,Doctor_760,Orthopedics,Manipal
+D0761,Doctor_761,Neurology,AIIMS
+D0762,Doctor_762,Cardiology,AIIMS
+D0763,Doctor_763,General Medicine,Manipal
+D0764,Doctor_764,Cardiology,Manipal
+D0765,Doctor_765,General Medicine,Apollo
+D0766,Doctor_766,General Medicine,AIIMS
+D0767,Doctor_767,General Medicine,Fortis
+D0768,Doctor_768,Pediatrics,AIIMS
+D0769,Doctor_769,General Medicine,AIIMS
+D0770,Doctor_770,Orthopedics,AIIMS
+D0771,Doctor_771,Pediatrics,Max
+D0772,Doctor_772,Orthopedics,Apollo
+D0773,Doctor_773,General Medicine,Apollo
+D0774,Doctor_774,Orthopedics,Manipal
+D0775,Doctor_775,General Medicine,Apollo
+D0776,Doctor_776,Neurology,AIIMS
+D0777,Doctor_777,Pediatrics,Max
+D0778,Doctor_778,Cardiology,Fortis
+D0779,Doctor_779,Orthopedics,Fortis
+D0780,Doctor_780,Neurology,Manipal
+D0781,Doctor_781,General Medicine,AIIMS
+D0782,Doctor_782,Orthopedics,Fortis
+D0783,Doctor_783,Pediatrics,AIIMS
+D0784,Doctor_784,Neurology,Fortis
+D0785,Doctor_785,Cardiology,Fortis
+D0786,Doctor_786,General Medicine,Manipal
+D0787,Doctor_787,Orthopedics,AIIMS
+D0788,Doctor_788,Orthopedics,Fortis
+D0789,Doctor_789,Neurology,Max
+D0790,Doctor_790,Pediatrics,AIIMS
+D0791,Doctor_791,Pediatrics,Apollo
+D0792,Doctor_792,Neurology,Fortis
+D0793,Doctor_793,Neurology,Max
+D0794,Doctor_794,Orthopedics,AIIMS
+D0795,Doctor_795,General Medicine,Manipal
+D0796,Doctor_796,Orthopedics,Apollo
+D0797,Doctor_797,Pediatrics,Manipal
+D0798,Doctor_798,Pediatrics,Apollo
+D0799,Doctor_799,Pediatrics,Fortis
+D0800,Doctor_800,General Medicine,AIIMS
+D0801,Doctor_801,General Medicine,Fortis
+D0802,Doctor_802,General Medicine,Fortis
+D0803,Doctor_803,Neurology,Fortis
+D0804,Doctor_804,Orthopedics,Max
+D0805,Doctor_805,Pediatrics,Manipal
+D0806,Doctor_806,General Medicine,Manipal
+D0807,Doctor_807,Cardiology,Manipal
+D0808,Doctor_808,Cardiology,Apollo
+D0809,Doctor_809,Neurology,Manipal
+D0810,Doctor_810,Cardiology,Fortis
+D0811,Doctor_811,General Medicine,Apollo
+D0812,Doctor_812,General Medicine,Manipal
+D0813,Doctor_813,Orthopedics,Max
+D0814,Doctor_814,General Medicine,Apollo
+D0815,Doctor_815,General Medicine,Manipal
+D0816,Doctor_816,Pediatrics,Max
+D0817,Doctor_817,Orthopedics,AIIMS
+D0818,Doctor_818,Neurology,AIIMS
+D0819,Doctor_819,Pediatrics,Fortis
+D0820,Doctor_820,General Medicine,AIIMS
+D0821,Doctor_821,Cardiology,Fortis
+D0822,Doctor_822,Orthopedics,Apollo
+D0823,Doctor_823,Orthopedics,Apollo
+D0824,Doctor_824,General Medicine,Fortis
+D0825,Doctor_825,Cardiology,Fortis
+D0826,Doctor_826,Pediatrics,Max
+D0827,Doctor_827,Neurology,AIIMS
+D0828,Doctor_828,Neurology,Fortis
+D0829,Doctor_829,General Medicine,Apollo
+D0830,Doctor_830,Pediatrics,Apollo
+D0831,Doctor_831,Pediatrics,Manipal
+D0832,Doctor_832,Cardiology,Manipal
+D0833,Doctor_833,Pediatrics,AIIMS
+D0834,Doctor_834,Cardiology,Max
+D0835,Doctor_835,Neurology,Fortis
+D0836,Doctor_836,Orthopedics,Fortis
+D0837,Doctor_837,Neurology,Fortis
+D0838,Doctor_838,Pediatrics,Fortis
+D0839,Doctor_839,Cardiology,Manipal
+D0840,Doctor_840,General Medicine,Manipal
+D0841,Doctor_841,Pediatrics,Manipal
+D0842,Doctor_842,Pediatrics,AIIMS
+D0843,Doctor_843,Orthopedics,Max
+D0844,Doctor_844,Pediatrics,Manipal
+D0845,Doctor_845,Pediatrics,Fortis
+D0846,Doctor_846,Cardiology,Max
+D0847,Doctor_847,General Medicine,Apollo
+D0848,Doctor_848,Neurology,Apollo
+D0849,Doctor_849,Pediatrics,Apollo
+D0850,Doctor_850,Neurology,Apollo
+D0851,Doctor_851,Neurology,Max
+D0852,Doctor_852,Cardiology,Max
+D0853,Doctor_853,Neurology,Max
+D0854,Doctor_854,Neurology,Fortis
+D0855,Doctor_855,General Medicine,Max
+D0856,Doctor_856,Pediatrics,Fortis
+D0857,Doctor_857,Orthopedics,Fortis
+D0858,Doctor_858,Cardiology,Max
+D0859,Doctor_859,Orthopedics,Manipal
+D0860,Doctor_860,Pediatrics,Apollo
+D0861,Doctor_861,Pediatrics,Apollo
+D0862,Doctor_862,Neurology,Max
+D0863,Doctor_863,General Medicine,Apollo
+D0864,Doctor_864,Neurology,Apollo
+D0865,Doctor_865,Cardiology,Manipal
+D0866,Doctor_866,Neurology,Apollo
+D0867,Doctor_867,Pediatrics,AIIMS
+D0868,Doctor_868,Neurology,AIIMS
+D0869,Doctor_869,Orthopedics,AIIMS
+D0870,Doctor_870,Neurology,AIIMS
+D0871,Doctor_871,Orthopedics,Max
+D0872,Doctor_872,Orthopedics,Apollo
+D0873,Doctor_873,Pediatrics,Max
+D0874,Doctor_874,Neurology,Apollo
+D0875,Doctor_875,Neurology,Apollo
+D0876,Doctor_876,General Medicine,AIIMS
+D0877,Doctor_877,General Medicine,AIIMS
+D0878,Doctor_878,Neurology,Apollo
+D0879,Doctor_879,Neurology,AIIMS
+D0880,Doctor_880,General Medicine,Manipal
+D0881,Doctor_881,Cardiology,Fortis
+D0882,Doctor_882,Cardiology,AIIMS
+D0883,Doctor_883,Pediatrics,AIIMS
+D0884,Doctor_884,Cardiology,Apollo
+D0885,Doctor_885,Pediatrics,Manipal
+D0886,Doctor_886,Orthopedics,Max
+D0887,Doctor_887,Pediatrics,Manipal
+D0888,Doctor_888,General Medicine,Max
+D0889,Doctor_889,Pediatrics,Manipal
+D0890,Doctor_890,Neurology,Fortis
+D0891,Doctor_891,Pediatrics,AIIMS
+D0892,Doctor_892,Orthopedics,Max
+D0893,Doctor_893,General Medicine,Fortis
+D0894,Doctor_894,Orthopedics,Fortis
+D0895,Doctor_895,Cardiology,Manipal
+D0896,Doctor_896,Cardiology,Manipal
+D0897,Doctor_897,General Medicine,Max
+D0898,Doctor_898,Neurology,Max
+D0899,Doctor_899,Cardiology,Fortis
+D0900,Doctor_900,Pediatrics,Max
+D0901,Doctor_901,General Medicine,Apollo
+D0902,Doctor_902,General Medicine,Max
+D0903,Doctor_903,General Medicine,AIIMS
+D0904,Doctor_904,Cardiology,AIIMS
+D0905,Doctor_905,Cardiology,AIIMS
+D0906,Doctor_906,General Medicine,Max
+D0907,Doctor_907,Neurology,AIIMS
+D0908,Doctor_908,General Medicine,Fortis
+D0909,Doctor_909,Neurology,Manipal
+D0910,Doctor_910,General Medicine,Manipal
+D0911,Doctor_911,Cardiology,Manipal
+D0912,Doctor_912,Neurology,AIIMS
+D0913,Doctor_913,Neurology,AIIMS
+D0914,Doctor_914,Neurology,Apollo
+D0915,Doctor_915,Neurology,Apollo
+D0916,Doctor_916,Cardiology,AIIMS
+D0917,Doctor_917,Orthopedics,Manipal
+D0918,Doctor_918,General Medicine,Apollo
+D0919,Doctor_919,Cardiology,Fortis
+D0920,Doctor_920,General Medicine,Fortis
+D0921,Doctor_921,General Medicine,AIIMS
+D0922,Doctor_922,Neurology,AIIMS
+D0923,Doctor_923,Neurology,Apollo
+D0924,Doctor_924,Cardiology,Fortis
+D0925,Doctor_925,Cardiology,Fortis
+D0926,Doctor_926,General Medicine,Fortis
+D0927,Doctor_927,Cardiology,Max
+D0928,Doctor_928,Orthopedics,Max
+D0929,Doctor_929,Orthopedics,Apollo
+D0930,Doctor_930,Cardiology,AIIMS
+D0931,Doctor_931,Neurology,Manipal
+D0932,Doctor_932,Pediatrics,AIIMS
+D0933,Doctor_933,Neurology,Fortis
+D0934,Doctor_934,Orthopedics,AIIMS
+D0935,Doctor_935,Orthopedics,AIIMS
+D0936,Doctor_936,Pediatrics,Manipal
+D0937,Doctor_937,Orthopedics,Manipal
+D0938,Doctor_938,Neurology,Fortis
+D0939,Doctor_939,Cardiology,Max
+D0940,Doctor_940,Neurology,Apollo
+D0941,Doctor_941,Orthopedics,AIIMS
+D0942,Doctor_942,General Medicine,AIIMS
+D0943,Doctor_943,Orthopedics,AIIMS
+D0944,Doctor_944,General Medicine,Max
+D0945,Doctor_945,Neurology,AIIMS
+D0946,Doctor_946,Pediatrics,AIIMS
+D0947,Doctor_947,General Medicine,Manipal
+D0948,Doctor_948,General Medicine,Max
+D0949,Doctor_949,Pediatrics,Apollo
+D0950,Doctor_950,Pediatrics,Fortis
+D0951,Doctor_951,Cardiology,Manipal
+D0952,Doctor_952,Neurology,Fortis
+D0953,Doctor_953,Neurology,Fortis
+D0954,Doctor_954,Orthopedics,Manipal
+D0955,Doctor_955,General Medicine,Apollo
+D0956,Doctor_956,Cardiology,AIIMS
+D0957,Doctor_957,Pediatrics,Fortis
+D0958,Doctor_958,Orthopedics,Manipal
+D0959,Doctor_959,Pediatrics,Fortis
+D0960,Doctor_960,Neurology,Manipal
+D0961,Doctor_961,General Medicine,Max
+D0962,Doctor_962,Cardiology,Apollo
+D0963,Doctor_963,Cardiology,Max
+D0964,Doctor_964,Orthopedics,AIIMS
+D0965,Doctor_965,Orthopedics,AIIMS
+D0966,Doctor_966,General Medicine,AIIMS
+D0967,Doctor_967,Orthopedics,Fortis
+D0968,Doctor_968,Cardiology,Apollo
+D0969,Doctor_969,Cardiology,Fortis
+D0970,Doctor_970,Neurology,Max
+D0971,Doctor_971,General Medicine,Apollo
+D0972,Doctor_972,Pediatrics,Max
+D0973,Doctor_973,Pediatrics,Apollo
+D0974,Doctor_974,Neurology,Manipal
+D0975,Doctor_975,Neurology,Manipal
+D0976,Doctor_976,Pediatrics,Fortis
+D0977,Doctor_977,Pediatrics,Manipal
+D0978,Doctor_978,General Medicine,Manipal
+D0979,Doctor_979,Pediatrics,Max
+D0980,Doctor_980,Pediatrics,Max
+D0981,Doctor_981,Neurology,AIIMS
+D0982,Doctor_982,Cardiology,Manipal
+D0983,Doctor_983,Pediatrics,Max
+D0984,Doctor_984,Pediatrics,Apollo
+D0985,Doctor_985,Orthopedics,Fortis
+D0986,Doctor_986,Cardiology,Manipal
+D0987,Doctor_987,Orthopedics,Max
+D0988,Doctor_988,Pediatrics,AIIMS
+D0989,Doctor_989,General Medicine,Manipal
+D0990,Doctor_990,Cardiology,Max
+D0991,Doctor_991,Pediatrics,AIIMS
+D0992,Doctor_992,Pediatrics,AIIMS
+D0993,Doctor_993,Pediatrics,AIIMS
+D0994,Doctor_994,Neurology,Manipal
+D0995,Doctor_995,Pediatrics,Manipal
+D0996,Doctor_996,Cardiology,AIIMS
+D0997,Doctor_997,Cardiology,Max
+D0998,Doctor_998,Neurology,AIIMS
+D0999,Doctor_999,Pediatrics,Manipal
+D1000,Doctor_1000,Cardiology,Max

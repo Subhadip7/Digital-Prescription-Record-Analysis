@@ -1,0 +1,42 @@
+Business Rules to Be Implemented:
+
+Business Rules Implemented
+
+Age must be between 0–100
+
+Duplicate prescriptions are invalid
+
+Prescriptions without valid patient/doctor are rejected
+
+Missing dosage/frequency → "Not Provided"
+
+Unknown gender → "U"
+
+----------------------------------------------
+
+ETL Pipeline Flow:
+
+CSV files (dirty data)
+        ↓
+Python ETL (Pandas)
+  - Deduplication
+  - Null handling
+  - Business rules
+        ↓
+MySQL clean tables (DDL + constraints)
+        ↓
+SQL analytics + Matplotlib dashboards
+
+
+---------------------------------
+
+Business Insights to be implemented using matplotlib
+
+
+Most frequently prescribed medicines
+Doctor-wise prescription volume comparison
+Gender-wise prescription distribution
+Age group vs number of prescriptions
+Detect doctors issuing unusually high prescriptions
+Daily prescription trend over time
+Data quality comparison (before vs after cleaning)
